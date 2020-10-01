@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Prachotan Reddy](https://github.com/PrachotanReddy)
+- Place: Hyderabad,India
+- Bio: CyberSec Enthusiast, Open Source admirer
+- GitHub: [PrachotanReddy](https://github.com/PrachotanReddy)
